@@ -8,7 +8,7 @@ The notebook contains explanations and graphs.
 * Equalized Odds Postprocessing
 
   
-The The  technique was done using [AI Fairness 360](https://aif360.readthedocs.io/en/stable/modules/generated/aif360.algorithms.postprocessing.EqOddsPostprocessing.html#aif360.algorithms.postprocessing.EqOddsPostprocessing)).
+The The  technique was done using [AI Fairness 360](https://aif360.readthedocs.io/en/stable/modules/generated/aif360.algorithms.postprocessing.EqOddsPostprocessing.html#aif360.algorithms.postprocessing.EqOddsPostprocessing).
 
 
 Example of using Calibrated Equalized Odds Postprocessing on the Adult dataset can be found [here](https://github.com/Trusted-AI/AIF360/blob/main/examples/demo_calibrated_eqodds_postprocessing.ipynb).
